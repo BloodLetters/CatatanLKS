@@ -1,6 +1,6 @@
 Cara Agar User Bisa Login Database SSMS menggunakan SQL Auth
 1). Login Database
-2). Klik Kanan di database
+2). Klik Kanan di Server
 3). Pilih Properti
 4). Masuk menu security
 5). Setelah itu select (SQL Server And Windows Authentication)
