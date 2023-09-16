@@ -8,18 +8,6 @@
 <h4></h4>
 <p>
   Contoh Soal 2023 Provinsi <br
-  <table>
-    <tr>
-      <th>
-        <td>
-          Test
-        </td>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        test
-      </td>
-    </tr>
-  </table>
+| LKS 2023 	|
+|----------	|
 </p>
