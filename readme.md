@@ -5,9 +5,20 @@
 </p>
 <br>
 
-<h4></h4>
+<h4>Data Inti Soal LKS 2023</h4>
+
+LKSN 2023 | Provinsi | Nasional
+--- | --- | ---
+1 | <a href=''>Penjualan UMKM Borneo</a> | Belum Ada
+
+<br>
+<br>
+<h1>Contoh Soal LKS Provinsi</h1>
 <p>
-  Contoh Soal 2023 Provinsi <br
-| LKS 2023 	|
-|----------	|
+  Buatlah sistem penjualan UMKM Borneo berbasis dekstop <br>
+  <li>Form Login</li>
+  <li>Form Aktivitas</li>
+  <li>Form Dashboard(Table Master)</li>
+  <li>Form Barang</li>
+  <li>Form Stok</li>
 </p>
