@@ -1,6 +1,6 @@
 # Cara mengubah port ssms
 <li>
-  Masuk Sql Server {versi} Configuration manager
+  <ol>Masuk Sql Server {versi} Configuration manager</ol>
   Pilih Sql Server Network Configuration 
   Pilih Protocols For SqlServers <br>
   Pilih TCP Ip <br>
