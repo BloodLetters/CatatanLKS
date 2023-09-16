@@ -21,4 +21,5 @@ LKSN 2023 | Provinsi | Nasional
   <li>Form Dashboard(Table Master)</li>
   <li>Form Barang</li>
   <li>Form Stok</li>
+  <li>Transaksi</li>
 </p>
