@@ -3,6 +3,8 @@
 2). Pilih Sql Server Network Configuration <br>
 3). Pilih Protocols For SqlServers <br>
 4). Pilih TCP Ip <br>
-  1). Enable ubah menjadi YES <br>
+  <li>
+    <ul>1). Enable ubah menjadi YES<ul>
+  </li>
 5). Masuk ke ip adresses <br>
 6). Ubah Semua Dynamic TCP IP Address menjadi 1433
