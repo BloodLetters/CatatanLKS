@@ -10,14 +10,15 @@ public class connection {
     String nama, pass, ip, port, dbname;
 
     public Connection koneksi() {
-        nama = "test1;";
-        pass = "test1;";
-        ip = "192.168.1.19";
-        port = "1433;";
-        dbname = "test1;";
+        nama = "test1;"; // standart username
+        pass = "test1;"; // standart password
+        ip = "192.168.1.19"; // ipv4 dari ping cmd
+        port = "1433;"; // standart port 1433 TCP| 1434 UDP
+        dbname = "test1;"; // nama database
 
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
+        
         Connection conn = null;
         String connURL = null;
 
