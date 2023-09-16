@@ -27,7 +27,7 @@ Desktop | VB.net(Visual Basic) | SQL Server | Buatlah sistem penjualan UMKM Born
 User | Memasukan Brg | Menghapus Brg | Melihat Brg | menambah Admin | Melihat Laporan
 --- | --- | --- | --- | -- | --
 Admin | ✅ | ✅ | ✅ | ✅ | ✅
-Petugas | ❌ | ❌ | ❌ | ❌ | ❌
+Petugas | ❌ | ❌ | ❌ | ❌ | ✅
 
 
 <p>
