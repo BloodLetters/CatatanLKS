@@ -7,6 +7,7 @@
 
 <h4>Data Inti Soal LKS 2023</h4>
 
+
 No | Deskripsi| LKS|
 --- | --- | ---
 1 | <a href=''>Penjualan UMKM Borneo</a> | Provinsi
@@ -15,22 +16,18 @@ No | Deskripsi| LKS|
 <br>
 <br>
 <h1>Contoh Soal LKS Provinsi</h1>
-
-<center>
+	
 Applikasi | Bahasa | Database | Deskripsi 
 --- | --- | --- | ---
 Desktop | VB.net(Visual Basic) | SQL Server | Buatlah sistem penjualan UMKM Borneo berbasis dekstop 
-</center>
 
 
 <h4>Role/User Petugas</h4>
 
-<center>
 User | Memasukan Brg | Menghapus Brg | Melihat Brg | menambah Admin | Melihat Laporan
 --- | --- | --- | --- | -- | --
 Admin | ✅ | ✅ | ✅ | ✅ | ✅
 Petugas | ❌ | ❌ | ❌ | ❌ | ❌
-</center>
 
 
 <p>
