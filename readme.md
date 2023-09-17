@@ -1,11 +1,12 @@
 # File Dump LKS 2023 Provinsi - Nasional
 <p>
   Ini adalah hasil dump pembelajaran dari Aril A.K.A Ashesh 2023 <br>
-  Data Disini untuk pembelajaran Android Studio - Visual Studio Csharp
+  Data Disini untuk pembelajaran Android Studio - Visual Studio Csharp <br>
+	Untuk Data Provinsi 2023 Contoh kodingannya tidak ada. lupa buat aja sih
 </p>
 <br>
 
-<h4>Data Inti Soal LKS 2023</h4>
+<h2>Data Inti Soal LKS 2023</h2>
 
 
 No | Deskripsi| LKS|
@@ -13,8 +14,8 @@ No | Deskripsi| LKS|
 1 | <a href=''>Penjualan UMKM Borneo</a> | Provinsi
 2 | <a href=''>Belum Ada</a> | Nasional
 
-<br>
-<br>
+<br><br><br><br>
+
 <h1>Contoh Soal LKS Provinsi</h1>
 	
 Applikasi | Bahasa | Database | Deskripsi 
@@ -83,9 +84,15 @@ Petugas | ❌ | ❌ | ❌ | ❌ | ✅
     Pastikan kamu tahu konsep dasar fungsi relasi, dfd karena itu akan di nilai juga <br>
     oleh juri sebagai nilai tambahan
   </ul>
-  
-  <hr>
-  
+	<br>
+ 	<h1>Contoh Soal LKS Nasional</h1>
+	 <ul>
+		 Belum Ada
+	 </ul>
+
+  <br><br><br><br>
+
+  <h1>Daftar Penting!</h1>
   <h3>Konsep yang harus di pelajari</h3>
   <ul>
     <li>
