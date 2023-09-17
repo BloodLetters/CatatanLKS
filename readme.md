@@ -69,6 +69,22 @@ Petugas | ❌ | ❌ | ❌ | ❌ | ✅
       baru memasukan ke table transaksi
     </li>
   </ul>
+
+  <h3>Penilaian LKS 2023 Provinsi</h3>
+  <ul>
+	Program kamu akan di nilai mulai dari fungsi, database, kode <br>
+    pastikan kamu mengikutin syarat dan ketentuan di kisi - kisi lks <br>
+    Program kamu akan di nilai mulai dari fungsi seperti, tombol, search, <br>
+    dll. pastikan semua yang kamu buat itu memiliki fungsi karena juri akan <br>
+    menilai dari situ
+    <br>
+    <br>
+    Dan Pastikan Program kamu menggunakan database yang sesuai di kisi kisi <br>
+    Pastikan kamu tahu konsep dasar fungsi relasi, dfd karena itu akan di nilai juga <br>
+    oleh juri sebagai nilai tambahan
+  </ul>
+  
+  <hr>
   
   <h3>Konsep yang harus di pelajari</h3>
   <ul>
@@ -86,20 +102,6 @@ Petugas | ❌ | ❌ | ❌ | ❌ | ✅
      <li>
     Management Waktu agar tidak ada waktu yang terbuang
     </li>
-  </ul>
-  
-  <h3>Penilaian LKS 2023</h3>
-  <ul>
-	Program kamu akan di nilai mulai dari fungsi, database, kode <br>
-    pastikan kamu mengikutin syarat dan ketentuan di kisi - kisi lks <br>
-    Program kamu akan di nilai mulai dari fungsi seperti, tombol, search, <br>
-    dll. pastikan semua yang kamu buat itu memiliki fungsi karena juri akan <br>
-    menilai dari situ
-    <br>
-    <br>
-    Dan Pastikan Program kamu menggunakan database yang sesuai di kisi kisi <br>
-    Pastikan kamu tahu konsep dasar fungsi relasi, dfd karena itu akan di nilai juga <br>
-    oleh juri sebagai nilai tambahan
   </ul>
   
   <h3>Note Penting</h3>
