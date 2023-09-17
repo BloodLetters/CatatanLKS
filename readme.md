@@ -11,7 +11,7 @@
 
 No | Deskripsi| LKS|
 --- | --- | ---
-1 | <a href=''>Penjualan UMKM Borneo</a> | Provinsi
+1 | <a href='#contoh-soal-lks-provinsi'>Penjualan UMKM Borneo</a> | Provinsi
 2 | <a href=''>Belum Ada</a> | Nasional
 
 <br><br><br><br>
