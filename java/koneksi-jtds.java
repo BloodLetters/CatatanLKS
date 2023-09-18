@@ -1,3 +1,6 @@
+// Install Library JTDS terlebih dahulu
+// nuget -> search -> net.sourceforge.jtds
+
 import android.os.StrictMode;
 import android.util.Log;
 
