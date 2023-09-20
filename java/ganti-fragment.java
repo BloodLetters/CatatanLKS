@@ -16,6 +16,7 @@ bottom = findViewById(R.id.bottom_navigation);
 
             getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, select).commit();
 
-            return false;
+            // Pastikan return true. agar Menu Bottom Navigation Highlistnya menjadi bisa digunakan
+            return true;
         }
     });
