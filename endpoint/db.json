@@ -1,0 +1,84 @@
+{
+    "profile": [
+        {
+            "nama": "Ashesh",
+            "age": 17,
+            "like": 4,
+            "dislike": 6,
+            "komen": [
+                {
+                    "id": 1,
+                    "konten": "Test Komen 1"
+                },
+                {
+                    "id": 2,
+                    "konten": "Test Komen 2"
+                },
+                {
+                    "id": 3,
+                    "konten": "Test Komen 3"
+                }
+            ]
+        },
+        {
+            "nama": "Aisyah",
+            "age": 18,
+            "like": 10,
+            "dislike": 3,
+            "komen": [
+                {
+                    "id": 1,
+                    "konten": "Test Komen 1"
+                },
+                {
+                    "id": 2,
+                    "konten": "Test Komen 2"
+                },
+                {
+                    "id": 3,
+                    "konten": "Test Komen 3"
+                }
+            ]
+        },
+        {
+            "nama": "Aldo",
+            "age": 16,
+            "like": 5,
+            "dislike": 6,
+            "komen": [
+                {
+                    "id": 1,
+                    "konten": "Test Komen 1"
+                },
+                {
+                    "id": 2,
+                    "konten": "Test Komen 2"
+                },
+                {
+                    "id": 3,
+                    "konten": "Test Komen 3"
+                }
+            ]
+        },
+        {
+            "nama": "Tatra",
+            "age": 15,
+            "like": 3,
+            "dislike": 3,
+            "komen": [
+                {
+                    "id": 1,
+                    "konten": "Test Komen 1"
+                },
+                {
+                    "id": 2,
+                    "konten": "Test Komen 2"
+                },
+                {
+                    "id": 3,
+                    "konten": "Test Komen 3"
+                }
+            ]
+        }
+    ]
+}
