@@ -14,7 +14,7 @@ No | Deskripsi| LKS|
 1 | <a href='#contoh-soal-lks-provinsi'>Penjualan UMKM Borneo</a> | Provinsi
 2 | [Klik Disini](https://drive.google.com/drive/folders/1Z70n0JubMO0Yul2WxUADA1aOho7U5Q6r) | Nasional
 
-<br><br><br><br>
+<br><br>
 
 <h1>Contoh Soal LKS Provinsi</h1>
 	
