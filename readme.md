@@ -84,8 +84,7 @@ Petugas | ❌ | ❌ | ❌ | ❌ | ✅
     Pastikan kamu tahu konsep dasar fungsi relasi, dfd karena itu akan di nilai juga <br>
     oleh juri sebagai nilai tambahan
   </ul>
-	<br>
-
+  
   <br><br>
 
   <h1>Daftar Penting!</h1>
