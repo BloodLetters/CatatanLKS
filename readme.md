@@ -12,7 +12,7 @@
 No | Deskripsi| LKS|
 --- | --- | ---
 1 | <a href='#contoh-soal-lks-provinsi'>Penjualan UMKM Borneo</a> | Provinsi
-2 | <a href='#contoh-soal-lks-nasional'>Belum Ada</a> | Nasional
+2 | [Klik Disini](https://drive.google.com/drive/folders/1Z70n0JubMO0Yul2WxUADA1aOho7U5Q6r) | Nasional
 
 <br><br><br><br>
 
@@ -85,10 +85,6 @@ Petugas | ❌ | ❌ | ❌ | ❌ | ✅
     oleh juri sebagai nilai tambahan
   </ul>
 	<br>
- 	<h1>Contoh Soal LKS Nasional</h1>
-	 <ul>
-		 Belum Ada
-	 </ul>
 
   <br><br><br><br>
 
@@ -143,5 +139,5 @@ Petugas | ❌ | ❌ | ❌ | ❌ | ✅
 
 <hr>
 <center>
-Selamat LKS, Dari Aril 2023
+Good Luck
 </center>
