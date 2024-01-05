@@ -86,7 +86,7 @@ Petugas | ❌ | ❌ | ❌ | ❌ | ✅
   </ul>
 	<br>
 
-  <br><br><br><br>
+  <br><br>
 
   <h1>Daftar Penting!</h1>
   <h3>Konsep yang harus di pelajari</h3>
