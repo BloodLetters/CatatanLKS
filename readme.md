@@ -1,6 +1,6 @@
 # File Dump LKS 2023 Provinsi - Nasional
 <p>
-  Ini adalah hasil dump pembelajaran dari Aril A.K.A Ashesh 2023 <br>
+  Ini adalah hasil dump pembelajaran dari Ashesh LKS 2023 <br>
   Data Disini untuk pembelajaran Android Studio - Visual Studio Csharp <br>
 	Untuk Data Provinsi 2023 Contoh kodingannya tidak ada. lupa buat aja sih
 </p>
