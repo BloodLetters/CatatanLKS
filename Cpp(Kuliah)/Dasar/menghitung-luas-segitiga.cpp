@@ -18,6 +18,6 @@ int main(int argc, char** argv) {
 	hasil = 0.5 * alas * tinggi;
 	
   // Menampilkan Hasil
-  cout << "\n --- HASIL --- \n";
+  	cout << "\n --- HASIL --- \n";
 	cout << "Luas Segitiga: " << hasil << " Cm";
 }
